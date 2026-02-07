@@ -7,7 +7,7 @@
 
 ---
 
-### 📅 2025 | 📟 Gömülü Sistemler ve IoT (Embedded Systems)
+### 📅 2026| 📟 Gömülü Sistemler ve IoT (Embedded Systems)
 * **[pico-2-comm-w-bt](https://github.com/randomizeduser2/pico-2-comm-w-bt)**: Raspberry Pi Pico'nun Bluetooth protokolü üzerinden bilgisayar ile haberleşmesini sağlayan Python tabanlı sistem.
 * **[esp8266-on-air](https://github.com/randomizeduser2/esp8266-on-air)**: ESP8266 modülü üzerinden uzak sunuculara ağ isteği gönderen ve çift yönlü iletişim sağlayan IoT projesi.
 
