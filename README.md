@@ -1,7 +1,7 @@
 ## Projelerim & Çalışmalarım
 
 ### 📅 2026 | C++ Projeler
-* **[bytesieve](https://github.com/k19-sudo/bytesieve)**: Cross-Platform C++ Magic bit tespit eden kütüphane. (WebP,PNG,JPEG)
+* **[bytesieve](https://github.com/k19-sudo/bytesieve)**: Cross-Platform C++ Magic byte yöntemi ile resim formatı tespiti. (WebP,PNG,JPEG)
   
 ### 📅 2026 | 🤖 Yapay Zeka ve Görüntü İşleme (AI & Computer Vision)
 * **[radar-detection-for-marine](https://github.com/randomizeduser2/radar-detection-for-marine)**: YOLOv26-nano segmentasyon ve EasyOCR kullanarak otonom radar durumu izleme aracı.
