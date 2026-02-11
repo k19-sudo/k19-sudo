@@ -1,7 +1,7 @@
 ## Projelerim & Çalışmalarım
 
 ### 📅 2026 | Data Mining and Web Scraping
-* **[bytesieve](https://github.com/k19-sudo/scraping-zyte-books)**: Typescript + Playwright ile hedef internet sitesindeki verilerin kazımı işlemi.
+* **[scraping-zyte-books](https://github.com/k19-sudo/scraping-zyte-books)**: Typescript + Playwright ile hedef internet sitesindeki verilerin kazımı işlemi.
 
 ---
 
