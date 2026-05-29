@@ -15,6 +15,7 @@
 * **[object-counter-w-yolo26](https://github.com/randomizeduser2/object-counter-w-yolo26)**: YOLOv26 modeli ile tanımlanmış nesnelerin sayısını gerçek zamanlı ölçen staj projesi.
 * **[tinyml-on-microchips](https://github.com/randomizeduser2/tinyml-on-microchips)**: Edge Impulse ve TensorFlow Lite kullanarak C++ ile mikroçiplerde gerçek zamanlı video akışı analizi.
 * **[k-nn-based-computer-vision-model](https://github.com/k19-sudo/knn-learning-model)**: K-Nearest Neighbour algoritmasını kullanılarak eğitilmiş olan computer vision modeli - Image Classification
+* **[fully-connected-feed-forward-neural-networks](https://github.com/k19-sudo/fully-connected-feed-forward-neural-networks)**: 2 farklı hidden layere sahip fully connected yapay sinir ağı.
 ---
 
 ### 📅 2026 | 📟 Gömülü Sistemler ve IoT (Embedded Systems)
